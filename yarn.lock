@@ -22,9 +22,9 @@ assert@^2.0.0:
     object-is "^1.0.1"
     util "^0.12.0"
 
-async@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/async/-/async-3.1.0.tgz#42b3b12ae1b74927b5217d8c0016baaf62463772"
+async@^3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/async/-/async-3.2.2.tgz#2eb7671034bb2194d45d30e31e24ec7e7f9670cd"
 
 body-parser@1.19.0, body-parser@^1.19.0:
   version "1.19.0"
